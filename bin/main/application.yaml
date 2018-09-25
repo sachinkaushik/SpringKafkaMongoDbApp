@@ -1,0 +1,15 @@
+server:
+    address: localhost
+    port: 9181
+    contextPath: /SpringKafkaMongoDbApp
+
+spring:
+  application:
+    name: SpringKafkaMongoDbApp    
+  data: 
+    mongodb:
+      database: udpdev
+      host: localhost
+      port: 27017
+      userName: root
+      password: root
