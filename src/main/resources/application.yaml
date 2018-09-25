@@ -8,7 +8,7 @@ spring:
     name: SpringKafkaMongoDbApp    
   data: 
     mongodb:
-      database: udpdev
+      database: dev
       host: localhost
       port: 27017
       userName: root
